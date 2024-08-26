@@ -23,7 +23,7 @@ function App() {
     },
     {
       productImage:
-        "https://images.officeworks.com.au/api/2/img/https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/GPX7PR128H_A_google_pixel_7_pro_5g_unlocked_smartphone_128gb_hazel.jpg/resize?size=600&auth=MjA5OTcwODkwMg__",
+        "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723573867/Croma%20Assets/Communication/Mobiles/Images/309159_0_rzdw2t.png",
       productName: "Google Pixel 7pro",
       price: 70000,
       rating: 80,
