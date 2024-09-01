@@ -30,7 +30,7 @@ function App() {
     },
     {
       productImage:
-        "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/617MPEZB5mL._SL1500_.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E5-6Ch9ZwdUEUsyiRXhKVAQWCbwiV74JdDy5WAm4W6OQDCeOMsuIlBf8naBblaviCXU&usqp=CAU",
       productName: "Oneplus 11",
       price: 64000,
       rating: 50,
